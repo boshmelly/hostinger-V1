@@ -1,0 +1,9 @@
+# Allowlist approach: ignore everything by default...
+*
+# ...but descend into subdirectories...
+!*/
+# ...and permit only these text types
+!.gitignore
+!*.md
+!*.txt
+!*.csv

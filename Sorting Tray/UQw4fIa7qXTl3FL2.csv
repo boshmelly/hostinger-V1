@@ -1,0 +1,5 @@
+Type,"Reference number",Check-in,Checkout,"Guest name","Reservation status",Currency,"Payment status",Amount,Commission,"Payment charge",,Net,"Payout date","Payout ID"
+Reservation,4459784403,"Jun 27, 2024","Jul 7, 2024","Mohammed Reaz Shaheed",ok,GBP,by_booking,1845.47,-276.82,-23.99,,1544.66,"Jul 11, 2024",UQw4fIa7qXTl3FL2
+Reservation,4910206096,"Jun 21, 2024","Jun 26, 2024","Randall Sally",ok,GBP,by_booking,840.40,-126.06,-10.93,,703.41,"Jul 11, 2024",UQw4fIa7qXTl3FL2
+Reservation,4375905557,"Jun 3, 2024","Jun 7, 2024","Magdalena Danik",ok,GBP,by_booking,768.40,-115.26,-9.99,,643.15,"Jul 11, 2024",UQw4fIa7qXTl3FL2
+"Payout correction due to an overpayment",SAP88101-12031,,"Jun 11, 2024",,,GBP,,,,,,-2329.07,"Jul 11, 2024",UQw4fIa7qXTl3FL2

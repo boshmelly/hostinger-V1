@@ -1,0 +1,6 @@
+Property ID,Property nickname,Multi-unit name,Check in,Arrival time,Check out,Departure time,Number of nights,Channel name,Booking source,Guest name,Guest email,Guest phone,Currency,Confirmation code,Number of guests,Accommodation total,Cleaning fee,Extra guest charges,Extra charges,Discounts,Booking taxes,Payment processing fee,Commission,Commission tax,Total payout,Cancellation fee,Gross revenue,Net revenue,Balance,Accommodation management fee,Cleaning management fee,Total management fee,Booked at,Note,Status
+76480,maria street,,2023-12-04,15:00:00,2023-12-08,11:00:00,4,uplisting,,David ,charlotte@propitchservicesltd.com,07546739802,GBP,,2,484.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,484.0,,484.0,484.0,0.0,,,,2023-12-01 13:58:55,,checked_out
+76480,maria street,,2023-12-11,15:00:00,2023-12-15,11:00:00,4,uplisting,,David,charlotte@propitchservicesltd.com,07546739802,GBP,,2,484.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,484.0,,484.0,484.0,0.0,,,,2023-12-08 12:03:55,,checked_out
+76480,maria street,,2024-01-15,15:00:00,2024-02-11,10:00:00,27,uplisting,,Phil,pip@alliedstoragetanks.co.uk,07831521422,GBP,,5,3248.0,220.0,0.0,0.0,0.0,0.0,0.0,0.0,,3468.0,,3468.0,3248.0,0.0,,,,2024-01-15 15:04:26,"5 people
+28 nights
+Previous guests.",checked_in

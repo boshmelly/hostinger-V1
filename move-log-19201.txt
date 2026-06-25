@@ -1,0 +1,10 @@
+# Move log — Mon Jun 22 12:33:15 BST 2026
+A | [FTUApps.com] - Adobe Photoshop 2020 v21.2.2.289 (x64) Multilingual Pre-Activated -> _Review-Delete/
+A | ubuntu-26.04-live-server-arm64.iso -> _Review-Delete/
+A | googlechrome.dmg -> _Review-Delete/
+A | tsetup.5.0.1.dmg -> _Review-Delete/
+A | UTM (1).dmg -> _Review-Delete/
+A | Telegram.dmg -> _Review-Delete/
+A | tportable.2.4.7 -> _Review-Delete/
+A | Telegram Desktop -> _Review-Delete/
+A | Microsoft Activation Scripts v1.4 -> _Review-Delete/
