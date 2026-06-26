@@ -6,6 +6,7 @@ Your one-glance home. Every link below opens. To browse inside a folder, use the
 
 ## 🎯 Start Here
 
+- 🧭 [[LIFE-OS]] — **you at the top**, your branches, and how they feed each other (read this first)
 - 🗺️ [[Founder Operating System.html]] — your venture wall map
 - 🧠 [[mi.md]] — who you are (the AI brain)
 - 🧰 [[skill-map.md]] — your 153 agents + skills
