@@ -7,7 +7,7 @@
 
 ## ⭐ The wall map (start here when you feel lost)
 
-- [[LIFE-OS]] — you at the root, your five branches, and the dependencies between them. The frame everything else sits under.
+- [[MELLY-OS]] — you at the root, your five branches, and the dependencies between them. The frame everything else sits under.
 - [Founder Operating System](Founder%20Operating%20System.html) — the whole venture on one page: every Engine, who runs it, where it sits. Open this first when your head is spinning.
 
 ---

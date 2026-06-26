@@ -1,4 +1,4 @@
-# 🧭 LIFE-OS — Ola's Operating System
+# 🧭 MELLY OS — Ola's Operating System
 
 > You are the root node. Everything below is a branch that serves you — never the reverse.
 > This is the **map**. The deep content lives in the branch folders (the territory). Open those only when a task needs them.
@@ -14,6 +14,7 @@
         ┌───────────────────┼───────────────────────────────┐
    GLOBAL AI LAYER  (substrate — every branch runs on this, set once at ~/.claude)
    • Skills & Agents   • Prompts & Frameworks   • Memory / Second Brain
+   • Complex jobs → multi-agent skills auto-assign their own agents/sub-agents
                             │
    ┌──────────┬────────────┼─────────────┬──────────────────┐
  Personal    Family    Businesses    Career &           Content
@@ -85,4 +86,4 @@ Do not read the territory to do simple work. Open a specific branch file only wh
 
 ---
 
-*Source-of-truth map. Visual sketch rendered in session 2026-06-26. Keep in sync with `~/CLAUDE.md` § THE LIFE AI OS.*
+*Source-of-truth map. Visual sketch rendered in session 2026-06-26. Keep in sync with `~/CLAUDE.md` § MELLY OS.*
