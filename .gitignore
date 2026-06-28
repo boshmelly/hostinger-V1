@@ -7,3 +7,6 @@
 !*.md
 !*.txt
 !*.csv
+
+# Local tool installs (skills/MCP state) — reproduced via install-skills.sh, not committed
+.agents/
