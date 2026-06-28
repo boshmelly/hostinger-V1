@@ -1,0 +1,25 @@
+{
+  "name": "gap-intel-crm",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Gap-Intelligence CRM — scored weak-digital SME leads, brokers/buyers, funding, and the two-doorway playbook. Vercel-ready (JSON-first), Supabase optional.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "load:supabase": "node supabase/load.mjs"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "optionalDependencies": {
+    "@supabase/supabase-js": "2.45.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.0",
+    "@types/react": "18.3.3",
+    "typescript": "5.5.3"
+  }
+}
