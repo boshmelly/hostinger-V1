@@ -14,7 +14,7 @@
 
 ## AI layer (read first)
 
-- [[mi.md]] — who I am, portable across any AI tool
+- [[melly-os.md]] [[mi.md]] — who I am & structure, portable across any AI tool
 - [[vault-map]] — folder rules and navigation
 - [[skill-map]] — which skills/agents exist and when to use them
 

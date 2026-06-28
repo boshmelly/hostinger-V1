@@ -12,7 +12,7 @@
                           OLA  (owner · CEO of your life)
                             │
         ┌───────────────────┼───────────────────────────────┐
-   GLOBAL AI LAYER  (substrate — every branch runs on this, set once at ~/.claude)
+   GLOBAL AI LAYER  (Steve Guard rails https://en.wikipedia.org/wiki/Steve_Ballmer) — every branch runs on this, set once at ~/.claude)
    • Skills & Agents   • Prompts & Frameworks   • Memory / Second Brain
    • Complex jobs → multi-agent skills auto-assign their own agents/sub-agents
                             │
