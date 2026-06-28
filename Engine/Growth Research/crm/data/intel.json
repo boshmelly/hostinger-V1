@@ -47,7 +47,12 @@
         "https://www.yell.com/biz/pinewood-dental-laboratory-aberdeen-730327/",
         "https://www.aberdeenonline.co.uk/info/5258/",
         "https://www.yelp.co.uk/biz/pinewood-dental-laboratory-aberdeen"
-      ]
+      ],
+      "email_confidence": "None",
+      "email_source": "No public email found. Endole company profile explicitly lists Email: \"Unreported\"; no website exists; no email on Yell/Yelp/Cylex/Thomson Local/Companies House. (https://open.endole.co.uk/insight/company/SC384385-pinewood-dental-laboratory-ltd)",
+      "still_trading": true,
+      "recent_change": "None found. Companies House lists company SC384385 as ACTIVE; Yelp listing shows \"Updated July 2025\"; trading address unchanged at 55 Powis Place, AB25 3TT (registered office is an accountant-style address at 6-7 Queens Terrace, AB10 1XL). No move, closure, rebrand, or new website detected in the last 30-60 days. Note: confirmation statement was due ~Sep 2025; could not open the live filing-history page (egress policy blocked it) so a possible recently-filed/overdue confirmation statement is unverified, but status reads active across all sources.",
+      "reach_verdict": "phone-first"
     },
     {
       "name": "Carrigdean Dental Centre (Carrig Dean Medical & Dental Centre)",
@@ -87,7 +92,12 @@
         "https://whatclinic.com/dentists/ireland/county-cork/togher/carrigdean-dental-surgery",
         "https://www.irelandlookup.com/1613675/Dental_Surgeons/Cork/Lynagh_Dr._Damian_B.D.S_N.U.I/",
         "https://www.doklist.com/en/d74496/"
-      ]
+      ],
+      "email_confidence": "None",
+      "email_source": "",
+      "still_trading": true,
+      "recent_change": "none found — listing still present and consistent (GoldenPages category page \"Last Updated December 2025\"); same Togher Road address and 021 432 3353 phone; still no own website.",
+      "reach_verdict": "phone-first"
     },
     {
       "name": "Dooley's Funeral Directors (Colm Dooley, Funeral Director)",
@@ -126,7 +136,12 @@
         "https://hibernianfunerals.ie/location/colm-dooley-funeral-director/",
         "https://www.offalyexpress.ie/news/business/559308/padraig-dooley-funeral-director-providing-a-complete-service.html",
         "https://www.gov.uk/government/publications/ireland-list-of-funeral-directors/ireland-funeral-directors"
-      ]
+      ],
+      "email_confidence": "Med",
+      "email_source": "Listed publicly on rip.ie services listing (colm-dooley-funeral-director-2618) and Hibernian Funerals location page; domain midlandbar.ie is the owner's pub (The Midland Bar / Dooley's, Kilcormac).",
+      "still_trading": true,
+      "recent_change": "Material change: The Midland Bar / Dooley's pub on Main Street, Kilcormac (the premises behind the midlandbar.ie email domain) is being marketed FOR SALE with vacant possession via BidX1 / Leahy Midland Auctioneers / MyHome.ie (listing 4988116, updated ~March 2026). The funeral business itself still appears active on rip.ie and Hibernian Funerals, but the pub sale puts the only known email (colum@midlandbar.ie) at risk of lapsing. No standalone funeral website has appeared.",
+      "reach_verdict": "email"
     },
     {
       "name": "Fitzsimons Family Fishmongers",
@@ -168,7 +183,12 @@
         "Where do you want the shop in three years - busier counter, more ready-meals, online ordering or delivery - or steady as it is?"
       ],
       "free_value_hook": "A free, ready-to-launch website: shop details, today's fresh catch and shellfish tank, the homemade ready-meal range, map/hours and a click-to-call \"reserve your fish\" button - plus a simple way to start collecting Google reviews.",
-      "problem_discovery_question": "Right now, if someone in Dublin who has never heard of you wants fresh fish today, how would they ever find you?"
+      "problem_discovery_question": "Right now, if someone in Dublin who has never heard of you wants fresh fish today, how would they ever find you?",
+      "email_confidence": "Med",
+      "email_source": "Listed as the business's order/contact email on multiple public directory listings (Yelp, Cylex, shoplocalonline.ie) and in search-surfaced business info; consistent across sources.",
+      "still_trading": true,
+      "recent_change": "None found. Listings still show Kimmage Road West address and active social media; no closure/relocation/rebrand. The advertised fitzsimonsfish.ie domain still does not resolve (returns no live site), confirming the no-website gap is current.",
+      "reach_verdict": "email"
     },
     {
       "name": "Lough Dental Practice (Dr Sean Toomey)",
@@ -210,7 +230,12 @@
         "https://www.paxad.ie/loughdental",
         "https://www.yelp.com/biz/lough-dental-practice-cork",
         "https://www.cylex.ie/company/lough+dental+practice-11676226.html"
-      ]
+      ],
+      "email_confidence": "Med",
+      "email_source": "Provided in business record as the practice email; format valid and business-named. Could not re-verify on an owned/official source this session (PaxAd mini-page paxad.ie/loughdental and all directory listings returned 403 at egress proxy).",
+      "still_trading": true,
+      "recent_change": "none found — still no owned website (only templated PaxAd mini-page); Yelp listing updated May 2026 and appears in Yelp \"best dentists in Cork\" June 2026, indicating active trading",
+      "reach_verdict": "email"
     },
     {
       "name": "Campion Denture Clinic and Laboratory Ltd (Campion Dental Laboratory)",
@@ -221,7 +246,7 @@
       "sector": "dental labs",
       "owner_name_public": "Kieran Campion",
       "phone": "056 7770343 / 087 2270474",
-      "email": "",
+      "email": "kierancampion@live.com",
       "has_website": false,
       "website_url": "",
       "review_count": "0 (no Google/Yelp reviews surfaced; directory listings show \"no reviews\")",
@@ -251,7 +276,12 @@
         "https://www.facebook.com/p/Campion-Denture-Clinic-100078983921747/",
         "https://kilkennygaa.ie/supporters-club/business-ads/campion-dental-laboratory/",
         "https://www.linkedin.com/in/kieran-campion-021111201/"
-      ]
+      ],
+      "email_confidence": "Med",
+      "email_source": "Listed on Pallas Marketing community business directory (directory.pallasmarketing.ie) and irelands-advisor.com listing for Campion Dental Laboratory; corroborated across multiple directory search results with matching phone/address.",
+      "still_trading": true,
+      "recent_change": "none found - still no working website (campion.dental does not resolve), presence remains Facebook + passive directory listings; Yelp listing shows \"Updated March 2026\" indicating continued activity",
+      "reach_verdict": "email"
     },
     {
       "name": "W.M. Christie Family Butcher (William Christie)",
@@ -292,7 +322,12 @@
         "https://www.facebook.com/p/WM-Christie-Family-Butcher-100043649270599/",
         "https://x.com/wm_christie",
         "https://find-and-update.company-information.service.gov.uk/company/SC036554"
-      ]
+      ],
+      "email_confidence": "None",
+      "email_source": "",
+      "still_trading": true,
+      "recent_change": "",
+      "reach_verdict": "phone-first"
     },
     {
       "name": "Mairi Urquhart & Son Funeral Group",
@@ -333,7 +368,12 @@
         "https://localfuneral.co.uk/funeral-director/mairi-urquhart-son-funeral-group-alness/s77w54ashnv",
         "https://www.ross-shirejournal.co.uk/news/every-life-deserves-to-be-honoured-in-a-way-particular-to-t-385914/",
         "https://www.yell.com/biz/mairi-urquhart-and-son-funeral-group-alness-4779544/"
-      ]
+      ],
+      "email_confidence": "High",
+      "email_source": "https://mairiurquhartandson.com/contact-us/",
+      "still_trading": true,
+      "recent_change": "Firm is rebuilding its website (\"due to building our new website only the most recent notices appear\") - a recent site change/refresh in progress. No closure or relocation found; still three Highland branches.",
+      "reach_verdict": "email"
     },
     {
       "name": "Karen Lowe Dental Surgery",
@@ -373,7 +413,12 @@
         "https://www.whatclinic.com/dentists/ireland/county-dublin/terenure/dr-karen-lowe",
         "https://www.goldenpages.ie/karen-lowe-dental-surgery-dublin-D6W/",
         "https://find-open-now.com/dublin/karen-lowe-dental-surgery-67542"
-      ]
+      ],
+      "email_confidence": "High",
+      "email_source": "Practice's own website contact page (karenlowe.ie/contact.html), confirmed via live search snippet; domain matches the practice site.",
+      "still_trading": true,
+      "recent_change": "none found - still a static .html site, phone-only booking, single online review; no move/closure/rebrand/new website detected",
+      "reach_verdict": "email"
     },
     {
       "name": "L. Dollay Optometrist",
@@ -415,7 +460,12 @@
         "https://careservices.bexley.gov.uk/Services/1847",
         "https://sel-mecs.com/store/l-dollay-optometrist-thamesmead/",
         "https://find-and-update.company-information.service.gov.uk/company/08279699"
-      ]
+      ],
+      "email_confidence": "Med",
+      "email_source": "Recurring on multiple directory listings (Cylex, find-open, allinlondon) and the Facebook page (facebook.com/ldollayopticians) for the Northumberland Heath/Erith branch; NOT confirmed on the official contact page, which uses a contact form only.",
+      "still_trading": true,
+      "recent_change": "None found in the last 30-60 days. Both branches (259 Bexley Road, Erith DA8 3EX; 4a Joyce Dawson Way, Thamesmead SE28 8RA) and the website are live. Note: Companies House registered office moved to Peterborough (143 Eastfield Road, PE1 4AU) on 17 Sep 2024 - administrative only, practices unchanged. Yelp listing \"Updated December 2025.\"",
+      "reach_verdict": "email"
     },
     {
       "name": "Tom Harkins Jeweller",
@@ -457,7 +507,12 @@
         "https://glasgow.cylex-uk.co.uk/company/tom-harkins-17115198.html",
         "https://www.yell.com/biz/tom-harkins-glasgow-530214/",
         "https://www.glasgowonline.co.uk/info/26025/"
-      ]
+      ],
+      "email_confidence": "None",
+      "email_source": "No public email found on any listing (FB, ShopAppy, Cylex, Companies House, Pomanda, jewellerylocations, Glasgow Online); directories say \"call to request email\"",
+      "still_trading": true,
+      "recent_change": "none found — Companies House SC234295 still shows as live/active with Michael & Lorraine Harkins as directors; still no own website (only Facebook + directory listings). No move/closure/rebrand/website seen in last 30-60 days.",
+      "reach_verdict": "phone-first"
     },
     {
       "name": "St. Margarets Residential Home",
@@ -468,7 +523,7 @@
       "sector": "care homes/domiciliary",
       "owner_name_public": "Yara Enterprises Limited (operator); Manager: Uday Pani Kumar",
       "phone": "020 8300 2745",
-      "email": "",
+      "email": "infostmargarets@gmail.com",
       "has_website": false,
       "website_url": "",
       "review_count": "Handful of carehome.co.uk reviews; latest visible ~Oct 2023 / early 2024, none recent by mid-2026",
@@ -498,7 +553,12 @@
         "https://www.carehome.co.uk/carehome.cfm/searchazref/10001010MARD",
         "https://www.autumna.co.uk/providers/25888-st-margarets-residential-home/",
         "https://careservices.bexley.gov.uk/Services/357/St-Margarets-Reside"
-      ]
+      ],
+      "email_confidence": "Med",
+      "email_source": "nextdoor.co.uk/pages/st-margarets-residential-home-sidcup-england/ and britaine.co.uk/stmargarets-residential-home-F120DC40412D543",
+      "still_trading": true,
+      "recent_change": "None found in the last 30-60 days. Still no own website (discoverable only via CQC/NHS/Bexley council/Elder/Autumna/carehome.co.uk/Nextdoor). Reviews remain stale — most recent on carehome.co.uk are March 2024, no active review-collection system. Note: a business gmail (infostmargarets@gmail.com) exists on directory/social listings, which the original record did not capture.",
+      "reach_verdict": "email"
     },
     {
       "name": "The Galway Dental Laboratory",
@@ -539,7 +599,12 @@
         "https://www.facebook.com/galwaydentallab/",
         "https://www.goldenpages.ie/dental-laboratory/galway-county/",
         "https://ie.near-place.com/the-galway-dental-laboratory-unit-14c-town-park-centre-tuam-road-galway"
-      ]
+      ],
+      "email_confidence": "None",
+      "email_source": "",
+      "still_trading": true,
+      "recent_change": "none found - address (Unit 14c Town Park Centre, Tuam Rd, Galway H91 XF50) and phone are stable across all listings; Golden Pages listing last updated Jan 2026; still no website",
+      "reach_verdict": "phone-first"
     },
     {
       "name": "Narwhal Dental Laboratory",
@@ -578,7 +643,12 @@
         "https://www.goldenpages.ie/dental-laboratory/clonakilty-cork-county/",
         "https://www.locallife.ie/clonakilty/dentists-dental-services.asp",
         "https://www.irelandyp.com/category/Dentists/city:Clonakilty"
-      ]
+      ],
+      "email_confidence": "None",
+      "email_source": "No email found on any fetched/indexed source (Facebook, GoldenPages, locallife, mytown, infoisinfo, clonakilty.ie all lack email or 403-blocked)",
+      "still_trading": true,
+      "recent_change": "none found — still Facebook-only with no dedicated website; GoldenPages dental-laboratory listing last updated April 2026 still shows the business",
+      "reach_verdict": "phone-first"
     },
     {
       "name": "Malahide Dental Practice (Dr Niall Gough)",
@@ -621,7 +691,12 @@
         "https://2pos.irish/1242/12348",
         "https://www.enjoymalahide.com/services/medical/dental/dr-niall-gough/",
         "https://www.bizireland.com/malahide-dental-practice-niall-gough-01-845-0541"
-      ]
+      ],
+      "email_confidence": "Med",
+      "email_source": "Published consistently across business listings (enjoymalahide.com profile, cybo.com, bizireland.com, goldenpages.ie). Confirmed via exact-phrase web search; matches the record. First-party site/Facebook returned 403 so not re-verified on an owned page.",
+      "still_trading": true,
+      "recent_change": "Legacy .com brochure site (malahidedentalpractice.com) now returns a parked/\"holding\" page (HTTP 403, title \"holding\") rather than the old site — appears taken down/parked. No move, closure or rebrand found; practice still at 7 Castle Terrace, Malahide. No brand-new website detected.",
+      "reach_verdict": "email"
     },
     {
       "name": "St John's Hearing Aid Centre Ltd",
@@ -663,7 +738,12 @@
         "https://www.yell.com/biz/st-john-s-hearing-aid-centre-ltd-musselburgh-2859322/",
         "https://musselburgh.cylex-uk.co.uk/company/st-johns-hearing-aid-centre-musselburgh-17169930.html",
         "https://open.endole.co.uk/insight/company/01160087-st-john-s-hearing-aid-centre-ltd"
-      ]
+      ],
+      "email_confidence": "High",
+      "email_source": "Official website stjohnshac.co.uk enquiries/contact pages (info@stjohnshac.co.uk appears across multiple pages, confirmed via search snippets)",
+      "still_trading": true,
+      "recent_change": "None found. Still running the same dated .asp website with the same Musselburgh branch details and phone. Companies House confirmation statement filed 25 Jan 2025 (next due 8 Feb 2026), accounts filed for year ended 31 Mar 2025. No move, closure, rebrand, or new website in the last 30-60 days.",
+      "reach_verdict": "email"
     },
     {
       "name": "Ronald Campbell Roofing Contractor",
@@ -704,7 +784,12 @@
         "https://www.192.com/atoz/business/fort-william-ph33/roofing-contracting-services/ronald-campbell-roofing-contractor/eddac8ef421f44d50f09628e5ccbad3cb1affd0c/ml/",
         "https://m.facebook.com/ronniecampbellroofing/",
         "https://www.facebook.com/cammy.roofing/"
-      ]
+      ],
+      "email_confidence": "None",
+      "email_source": "",
+      "still_trading": true,
+      "recent_change": "None found. Still presence-limited to directory stubs (Yell, Thomson Local, 192, Kompass, Cylex, roofingcentral) and two Facebook pages. No new website, rebrand, move, or closure detected. Address unchanged: Aird Villa, Alma Road, Fort William, PH33 6HD.",
+      "reach_verdict": "phone-first"
     },
     {
       "name": "Dr Ciaran Casey Dentist",
@@ -717,7 +802,7 @@
       "has_website": true,
       "website_url": "https://www.terenuredentist.ie",
       "phone": "(01) 492 9244",
-      "email": "",
+      "email": "drciarancasey@gmail.com",
       "review_count": "Near zero - no Google/Golden Pages reviews surfaced; only one stray (negative) 2022 Yelp review",
       "digital_summary": "Established premium private dental practice with a thin brochure website (appointment-request form only, no real online booking, no review widget) and effectively zero/stale reviews with no collection system - strong reputation and reactivation gap.",
       "score_digital_gap": 2.5,
@@ -746,7 +831,12 @@
         "https://www.getlocal.ie/store/dr-ciaran-casey-dentist",
         "https://www.virtlo.com/countries/ireland/ireland-guide/health-beauty-dental-clinics/dr-ciaran-casey-3093244419-n",
         "https://www.yelp.com/biz/casey-dr-ciaran-b-a-b-dent-sc-terenure-2"
-      ]
+      ],
+      "email_confidence": "Med",
+      "email_source": "Surfaced via search indexing of the practice's own site content (terenuredentist.ie/contact) and corroborating directory data; not directly eyeballed because the site returns HTTP 403 to automated fetchers.",
+      "still_trading": true,
+      "recent_change": "None found. Practice still at 4 Terenure Road North, Dublin 6W (D6W NW84), same phone (01) 492 9244, website live and actively indexed. No move, closure, rebrand, or new site in the last 30-60 days.",
+      "reach_verdict": "email"
     },
     {
       "name": "FX Rowan & Co. Solicitors",
@@ -789,7 +879,12 @@
         "https://www.yelp.com/biz/f-x-rowan-and-co-solicitors-dublin",
         "https://www.legalindexireland.com/listings/listing/f-x-rowan-co-solicitors/",
         "https://www.lawsociety.ie/find-a-solicitor/"
-      ]
+      ],
+      "email_confidence": "High",
+      "email_source": "Confirmed on firm's own site fxrowan.ie (contact page indexed) and cross-listed on goldenpages.ie and irelandlookup.com",
+      "still_trading": true,
+      "recent_change": "none found — firm at same 14 Upper Pembroke Street, Dublin 2 (D02 T627) address since 1990; website active and indexed; Yelp listing last updated June 2025. No move/closure/rebrand in last 30-60 days.",
+      "reach_verdict": "email"
     },
     {
       "name": "Connolly's Fish Company (Connolly Seafood)",
@@ -830,7 +925,12 @@
       "free_value_hook": "A free, mobile-friendly one-page website at a working domain showing your hours, location, the five-trawler/100%-traceability story, BIM certification and a click-to-call - replacing the dead stevieconnollyseafood.com so searches actually land on you.",
       "problem_discovery_question": "What is the one thing that, if it changed, would make the biggest difference to the shop next year - more new customers walking in, more reliable repeat trade, or just freeing up time?",
       "deal_fit": "1.5",
-      "digital_gap": "2.5"
+      "digital_gap": "2.5",
+      "email_confidence": "None",
+      "email_source": "Historical info@stevieconnollyseafood.com appears on directory/search caches, but its domain (stevieconnollyseafood.com) is dead in DNS (ENOTFOUND) so the mailbox is undeliverable — not usable. No valid email on any live owned source.",
+      "still_trading": true,
+      "recent_change": "No closure/move. Positive freshness signals: Yelp listing \"Updated April 2026\" and FarmFinder flags a \"fishmonger expansion 2026-05\". The advertised website stevieconnollyseafood.com is dead in DNS (confirmed ENOTFOUND), so the business remains Facebook/Instagram-only online — the core gap is unchanged.",
+      "reach_verdict": "form/social"
     },
     {
       "name": "James Cockburn Funeral Directors",
@@ -870,7 +970,12 @@
         "https://localfuneral.co.uk/funeral-director/james-cockburn-funeral-directors-glasgow/3d8rqtshnh",
         "https://www.facebook.com/jamescockburnfuneraldirectors/",
         "https://www.funeralguide.co.uk/funeral-directors/glasgow/southside/james-cockburn"
-      ]
+      ],
+      "email_confidence": "High",
+      "email_source": "Official owned domain jamescockburn.co.uk (about-us / contact pages) and corroborated across directory listings (yourfuneralchoice, funeralrelated, endole)",
+      "still_trading": true,
+      "recent_change": "None found. Companies House SC408765 shows status Active with a confirmation statement filed 2 Oct 2025; still a single-location independent funeral director at 992/996 Govan Road. No move, closure, rebrand or new site in the last 30-60 days.",
+      "reach_verdict": "email"
     },
     {
       "name": "D McPherson (Fruit & Fishmonger)",
@@ -911,7 +1016,12 @@
         "https://vinsights.co.uk/Business/663241",
         "https://www.edinburghonline.co.uk/info/3366/",
         "https://www.myopeninghours.co.uk/Edinburgh/Services/D+Mcpherson/5bf932d70a91c3.78732525"
-      ]
+      ],
+      "email_confidence": "Low",
+      "email_source": "Pre-existing record value (originally from a Yell/directory listing). Could not re-confirm on an official owned source during this check — no website exists and Facebook/Yelp/Yell pages were inaccessible (403/blocked). Domain blueyonder.co.uk is a legacy Virgin Media consumer ISP mailbox, consistent with owner name Steven/Stephen McPherson.",
+      "still_trading": true,
+      "recent_change": "None found. Still at 102 Gorgie Road, EH11 2NP, same phone, hours 07:30-17:30, still no dedicated website (only Facebook + third-party directories). Yelp listing shown as \"Updated December 2025,\" indicating recent activity. No moved/closed/rebrand/new-website signal in the last 30-60 days.",
+      "reach_verdict": "email"
     },
     {
       "name": "Beaver Architectural Ironmongery Limited",
@@ -924,7 +1034,7 @@
       "has_website": true,
       "website_url": "http://www.beaverai.co.uk/",
       "phone": "020 8681 3939",
-      "email": "",
+      "email": "sales@beaverai.co.uk",
       "review_count": "~1-9 reviews aggregated across directories (Yell 1x 5-star; Cylex notes 9 from 2 sources); no fresh Google review base",
       "digital_summary": "Real but dated brochure site (\"The home Page for ironmongery\"), no e-commerce, no online scheduling/quote tool, and only a handful of stale directory reviews with no review-collection system.",
       "score_digital_gap": 2.5,
@@ -953,7 +1063,12 @@
         "https://croydon-greater-london.cylex-uk.co.uk/company/beaver-architectural-ironmongery-ltd-14229670.html",
         "https://www.construction.co.uk/c/293328/beaver-architectural-ironmongery",
         "http://www.beaverai.co.uk/"
-      ]
+      ],
+      "email_confidence": "High",
+      "email_source": "Business own domain (beaverai.co.uk) sales contact, surfaced via website indexed contact details and corroborated across directories (Yelp, RocketReach, Cylex, Tomba)",
+      "still_trading": true,
+      "recent_change": "None material. Still active and trading. Yelp listing updated May 2026; Companies House shows status Active with last accounts to 31 Dec 2024 and next confirmation statement due ~Aug/Sep 2026. No move, closure, rebrand, or new website detected; site remains the dated brochure at beaverai.co.uk.",
+      "reach_verdict": "email"
     },
     {
       "name": "Goskirk Pettinger Optometrists & Opticians",
@@ -994,7 +1109,12 @@
         "https://reviews.birdeye.com/goskirk-pettinger-optometrists-opticians-171289509862743",
         "https://reviews.birdeye.com/goskirk-pettinger-optometrists-opticians-171623833624449",
         "https://www.gpoptom.com/locations"
-      ]
+      ],
+      "email_confidence": "High",
+      "email_source": "Official website gpoptom.com (Dingwall practice contact) — confirmed via site search results and contact page; matches record",
+      "still_trading": true,
+      "recent_change": "None found. Company status Active at Companies House (SC159487); last accounts to 31 Dec 2024, confirmation statement dated 31 July 2025. Live modern website and active social presence. No move/closure/rebrand in last 30-60 days.",
+      "reach_verdict": "email"
     },
     {
       "name": "McNicol Property Consultants",
@@ -1036,7 +1156,12 @@
         "https://uk.linkedin.com/in/scott-mcnicol-77b65217",
         "https://www.getagent.co.uk/branch/mcnicol-property-consultants-g2/85965",
         "https://www.zoopla.co.uk/find-agents/branch/mcnicol-property-consultants-94-hope-street-standard-buildings-glasgow-102393/"
-      ]
+      ],
+      "email_confidence": "High",
+      "email_source": "Confirmed on the firm's own website (Contact Us / About pages) and corroborated by RICS Find a Surveyor (ricsfirms.com/office/712458), LoopNet, and Zoopla branch listings.",
+      "still_trading": true,
+      "recent_change": "None found. Operating company SC398332 remains Active; website pages indexed as recently updated Feb 2026; address unchanged (94 Hope Street, G2 6PH). Note: a separate/secondary entity MCNICOL PROPERTY CONSULTANTS (GLASGOW) LTD (SC804085) was dissolved 18 Jun 2024, but this is not the trading vehicle and predates the 30-60 day window.",
+      "reach_verdict": "email"
     },
     {
       "name": "Ivy Dental Practice",
@@ -1078,7 +1203,12 @@
         "https://find-and-update.company-information.service.gov.uk/company/SC486179",
         "https://www.cqc.org.uk/provider/1-152999480"
       ],
-      "sub_sector": "Private & NHS dental practice (implants / All-on-4 same-day teeth)"
+      "sub_sector": "Private & NHS dental practice (implants / All-on-4 same-day teeth)",
+      "email_confidence": "None",
+      "email_source": "No email found for the Edinburgh practice. Directory aggregators (ToothStars/Yelp/192/Thomson) auto-merge and display info@ivydental.co.uk + www.ivydental.co.uk, but ivydental.co.uk was verified to be the UNRELATED Stockport practice (161 Wellington Road South, SK1 3UA, run by Rachel & Dr Malc Newsome). That email must NOT be used for Edinburgh.",
+      "still_trading": true,
+      "recent_change": "None material. Yelp listing shows \"Updated December 2025\" (active). Companies House shows owner's Edinburgh Dental Ltd (SC486179) active with accounts to May 2024. Still no dedicated website for the Edinburgh Ivy practice as of June 2026 — the stated gap holds.",
+      "reach_verdict": "phone-first"
     },
     {
       "name": "McAllister's Quality Fishmonger",
@@ -1118,7 +1248,12 @@
         "Are you doing anything at the moment to get found online or to collect customer reviews, or is it all walk-in trade?"
       ],
       "free_value_hook": "A free, ready-to-go one-page website (counter photos, hours, phone/click-to-call, Bill's recipes, map and a Google review link) plus claiming and tidying the Google Business Profile so the shop actually shows up in local \"fresh fish Lucan\" searches.",
-      "problem_discovery_question": "Outside the loyal regulars, what's the hardest part about getting new customers through the door these days?"
+      "problem_discovery_question": "Outside the loyal regulars, what's the hardest part about getting new customers through the door these days?",
+      "email_confidence": "None",
+      "email_source": "No email exposed on any source (Ireland-Guide, Irelands-Advisor, Facebook, Instagram, Twitter, Foursquare, Yelp all checked)",
+      "still_trading": true,
+      "recent_change": "none found - no new website, no move, no closure detected; still listed under Lucan seafood markets on Yelp (updated June 2026)",
+      "reach_verdict": "form/social"
     },
     {
       "name": "Sheridan Dental Laboratory & Denture Clinic",
@@ -1158,7 +1293,12 @@
         "Roughly what is a new private denture-clinic patient worth to you, and how many of those could you realistically take on if more came in?"
       ],
       "free_value_hook": "A free, properly built replacement website on a live domain that loads, ranks for \"denture clinic Galway\" / \"dental laboratory Galway\", and shows the 32-year credibility - replacing the dead site at no cost as the way in.",
-      "problem_discovery_question": "When a dentist or a private patient can't find a working website and only sees old directory entries, do you feel that's costing you enquiries - or is your trade work so referral-driven that the website never really mattered to you?"
+      "problem_discovery_question": "When a dentist or a private patient can't find a working website and only sees old directory entries, do you feel that's costing you enquiries - or is your trade work so referral-driven that the website never really mattered to you?",
+      "email_confidence": "None",
+      "email_source": "Only email ever associated is info@sheridandentalgalway.com (from the old site's /contact/ page, surfaced in a search snippet), but the domain sheridandentalgalway.com no longer resolves (DNS ENOTFOUND), so that mailbox is not deliverable. No alternate public email found.",
+      "still_trading": true,
+      "recent_change": "None found. Listing still active and consistent across directories; Yelp page shows \"Updated June 2026\". The only notable (pre-existing) issue is the website domain having dropped/DNS-failing, which remains the case.",
+      "reach_verdict": "phone-first"
     },
     {
       "name": "Haven Beauty Clinic",
@@ -1198,7 +1338,12 @@
         "https://ie.polomap.com/nenagh/10920",
         "https://www.facebook.com/havenbeautyclinicnenagh/",
         "https://www.goldenpages.ie/beauty-salons/nenagh-tipperary-county/"
-      ]
+      ],
+      "email_confidence": "None",
+      "email_source": "",
+      "still_trading": true,
+      "recent_change": "None found. Business consistently active across Fresha (89 reviews, 5.0 rating, live bookings), Facebook, and directory listings with stable phone and Mon-Sat 09:30-18:00 hours. Note: Yonka store locator lists address as \"14 Kenyon Street, Nenagh, E45 Y031\" while polomap/other directories list \"3 Friar St / Friar's Court, Nenagh\" — likely an alternate/stale listing rather than a confirmed recent move; could not verify which is current as direct pages were 403-blocked. Still no owned website (gap confirmed).",
+      "reach_verdict": "phone-first"
     },
     {
       "name": "Aiton & Co Chartered Accountants",
@@ -1239,7 +1384,12 @@
         "https://sites.google.com/site/aitoncoca/people",
         "https://www.aitonca.com/",
         "https://www.192.com/atoz/business/glasgow-g2/accounting-activities/aiton-co/70e83f13e1609c7e3fbefb7317c00de27bb61997/ml/"
-      ]
+      ],
+      "email_confidence": "None",
+      "email_source": "No public email found on website, Cylex, Yell, accountant.co.uk, Google Sites, or any directory; direct \"@aitonca.com\" search returned no address.",
+      "still_trading": true,
+      "recent_change": "None found. Firm remains active and ICAS-regulated at Baltic Chambers, 50 Wellington Street, Glasgow G2 6HJ; two-partner practice founded 1985. No move, closure, or rebrand in the last 30-60 days.",
+      "reach_verdict": "phone-first"
     },
     {
       "name": "The Village Physiotherapy Clinic",
@@ -1280,7 +1430,12 @@
         "https://www.yell.com/biz/the-village-physiotherapy-clinic-orpington-2464178/",
         "https://www.finder.bupa.co.uk/Consultant/view/57961/the_village_physiotherapy_clinic",
         "https://www.physiotherapistsuk.co.uk/business/the-village-physiotherapy-clinic"
-      ]
+      ],
+      "email_confidence": "High",
+      "email_source": "Official site contact page (village-physio.co.uk/contact-us) and corroborated by Yell, Cylex, BUPA Finder, NaturalTherapyPages listings",
+      "still_trading": true,
+      "recent_change": "Relocated from Farnborough Village to 6 Cleave Avenue, Farnborough, BR6 7HB (described as a recent move; exact date unconfirmed, not clearly within last 30-60 days). No closure/rebrand. Website is live and active.",
+      "reach_verdict": "email"
     },
     {
       "name": "D.S. Macdonald Watchmaker & Jeweller",
@@ -1323,7 +1478,12 @@
         "https://wanderlog.com/place/details/9787106/ds-macdonald-watchmaker--jeweller",
         "https://www.jewellerylocations.co.uk/jeweller/417369/dsmacdonald",
         "https://www.facebook.com/watchmakerandjeweller/"
-      ]
+      ],
+      "email_confidence": "High",
+      "email_source": "Confirmed on owned domain dsmacdonald.co.uk (and surfaced in web search results for the business); domain matches their live multi-page e-commerce site.",
+      "still_trading": true,
+      "recent_change": "None found. No evidence of a move, closure, or rebrand in the last 30-60 days. Business remains at 58 Port Street, Stirling with a live e-commerce site (Nomination shop) and active social presence; consistent listings across Yell, Stirling.co.uk directory, jewellerylocations.co.uk, Nextdoor and Instagram.",
+      "reach_verdict": "email"
     },
     {
       "name": "Harper Hair Salon",
@@ -1365,7 +1525,12 @@
         "https://www.instagram.com/harperhairsalon/",
         "https://118businessdirectory.co.uk/listing/harper-hair-salon",
         "https://open.endole.co.uk/insight/company/SC757538-harper-hair-salon-limited"
-      ]
+      ],
+      "email_confidence": "Med",
+      "email_source": "SalonSpy + 118 Business Directory listings for Harper Hair Salon, 122 Battlefield Road; domain matches business name and record",
+      "still_trading": true,
+      "recent_change": "None found. Company HARPER HAIR SALON LIMITED (SC757538) still shows status Active on Companies House; no move, closure, rebrand, or new website detected. harperhairsalon.com remains email-only with no live site. Reviews continue to appear into 2026 (SalonSpy/Facebook ~15 reviews, 100% recommend).",
+      "reach_verdict": "email"
     },
     {
       "name": "Copsey Murray Chartered Accountants",
@@ -1398,7 +1563,12 @@
         "You've 50 years of happy clients but no public reviews anywhere - is that a deliberate choice, or just something nobody's ever set up?"
       ],
       "free_value_hook": "A free, modern HTTPS-secured rebuild of their website (or a single polished landing page) showing the firm as it should look in 2026, handed over with no obligation.",
-      "problem_discovery_question": "What is the single biggest constraint on the practice right now - winning new clients, freeing up partner time, or succession as the longer-serving directors look ahead?"
+      "problem_discovery_question": "What is the single biggest constraint on the practice right now - winning new clients, freeing up partner time, or succession as the longer-serving directors look ahead?",
+      "email_confidence": "High",
+      "email_source": "Official site contact page (copseymurray.ie/contact) plus GoldenPages and MGI Worldwide member-directory listings, all showing info@copseymurray.ie",
+      "still_trading": true,
+      "recent_change": "none found — firm remains active at Charter House, 5 Pembroke Row, Dublin 2 (D02 FW61); still on dated http:// (non-HTTPS) site, no rebrand or move detected",
+      "reach_verdict": "email"
     },
     {
       "name": "James Wilson & Co (Wilson Tractors (Berryhill) Ltd)",
@@ -1438,7 +1608,12 @@
         "https://www.yell.com/biz/james-wilson-and-co-galston-6131279/",
         "https://moscow.cylex-uk.co.uk/company/james-wilson---co-17064125.html",
         "https://www.facebook.com/jameswilsonco/"
-      ]
+      ],
+      "email_confidence": "High",
+      "email_source": "Owned website contact page (wilsontractors.co.uk/Contact); corroborated by Cylex and Yell directory listings",
+      "still_trading": true,
+      "recent_change": "Possible site modernisation/migration: directory + search now surface clean URLs (/Contact, /About/About-James-Wilson-Co/773, /Articles) alongside the older legacy .asp pages, suggesting the dated .asp front-end may have been partially rebuilt/restructured since the original record. Still no surfaced review/testimonial system or active Google review trail. No move/closure/rebrand found.",
+      "reach_verdict": "email"
     },
     {
       "name": "Nettlestead Care Home",
@@ -1481,7 +1656,12 @@
         "https://www.carehome.co.uk/care_search_results.cfm/searchgroup/36151010NIGA",
         "https://www.healthwatchbromley.co.uk/report/2025-01-27/enter-view-nettlestead",
         "https://reviews.birdeye.com/nettlestead-care-home-171245520453686"
-      ]
+      ],
+      "email_confidence": "High",
+      "email_source": "Official website nettlestead.com (contact-us page) — confirmed via WebSearch snippets; matches their owned domain",
+      "still_trading": true,
+      "recent_change": "none found",
+      "reach_verdict": "email"
     }
   ],
   "honourable": [
@@ -2156,5 +2336,276 @@
       ]
     }
   },
-  "generated_at": "2026-06-28"
+  "generated_at": "2026-06-28",
+  "outreach": {
+    "emails": [
+      {
+        "business": "Dooley's Funeral Directors (Colm Dooley, Funeral Director), Kilcormac, Co. Offaly",
+        "to_email": "colum@midlandbar.ie",
+        "subject": "searching for Dooley's in Offaly",
+        "preview": "A family looking for you finds a RIP.ie listing, not you.",
+        "body": "Colm,\n\nYour grandfather started Dooley's in Kilcormac back in 1921, and the trust the family name carries in Offaly clearly still does the work. But when someone searches for you online today, there's no website of your own to find - just a RIP.ie entry, and the only email going back is the Midland Bar's. At the moment a family needs you most, your name and your two numbers aren't the first thing they see.\n\nI'd build you a simple, dignified site for that, at no cost. No catch, nothing to sign.\n\nI spent nine years coordinating contractors on Transport for London, so I do careful, quiet work, not sales talk.\n\nIf you're happy with it after, all I'd ask is you mention us to anyone in the trade who could use the same.\n\nWorth a 10-minute call? No obligation - entirely your call.\n\nOla Seweje\nFounder, direct: [your number]",
+        "ps": "P.S. If this isn't useful, just say so and I'll leave you be.",
+        "case_study_used": "Founder credibility (Ola Seweje, 9 years coordinating contractors on Transport for London) — Essex HVAC outcome omitted as a poor fit for a non-discretionary, trust-driven funeral business.",
+        "doorway": "V1 sell-growth",
+        "personalisation_hook": "No standalone website: searching for Dooley's online returns only a RIP.ie listing, and the only contact email is the owner's pub domain (Midland Bar), not the funeral business.",
+        "send_notes": "Send as plain-text B2B email, no images or tracking pixels. Include a one-line unsubscribe ('reply STOP or say the word and I'll remove you'). Note: the address on file (colum@midlandbar.ie) is the owner's pub domain, not a dedicated funeral inbox — confirm it reaches Colm directly. Replace [your number] with a real direct line before sending."
+      },
+      {
+        "business": "Fitzsimons Family Fishmongers",
+        "to_email": "fitzsimonsfishorders@gmail.com",
+        "subject": "your fishfish.ie domain isn't loading",
+        "preview": "Folks in Kimmage searching \"fresh fish near me\" find a dead link.",
+        "body": "Hi Linda,\n\nI went looking for Fitzsimons online and your Facebook page is grand — 44 recommendations, people clearly travel for your fish. But the website on your listing, fitzsimonsfish.ie, doesn't load. So anyone in Kimmage typing \"fresh fish near me\" lands on a dead link and ends up at a supermarket counter instead of your shop.\n\nThat's leads walking past your door. A heating firm in Essex had a similar quiet leak — once we plugged it they recovered about £3,200 a month from enquiries they were already missing.\n\nHere's my offer: I'll build you a clean, simple site — your hours, today's catch, the ready-meals, click-to-reserve — at no cost. No catch. If you like it, I'd just ask for an honest review and to hear what your biggest day-to-day headache is.\n\nFor background, I spent nine years coordinating contractors on London transport projects, so I'm steady, not a hype merchant.\n\nWorth a 10-minute call? Yes or no is fine.\n\nSteve",
+        "ps": "P.S. The domain looks registered but parked — an easy fix, and you'd finally own your own online home instead of renting space on Facebook.",
+        "doorway": "V1 sell-growth",
+        "case_study_used": "Essex HVAC firm — +£3,200/mo from recovered missed enquiries",
+        "personalisation_hook": "Their advertised website domain fitzsimonsfish.ie does not resolve, so every \"fresh fish near me\" searcher hits a dead link; they rely entirely on a Facebook page with ~44 recommendations.",
+        "send_notes": "Send as plain-text B2B email (no images/tracking pixels) to fitzsimonsfishorders@gmail.com. Include a one-line opt-out in the footer, e.g. \"If this isn't useful, just reply 'no thanks' and I'll leave you be — I won't email again.\" Complies with GDPR/ePrivacy soft opt-out for B2B; honour any unsubscribe immediately. Sign with a real name, title, and a direct phone line."
+      },
+      {
+        "business": "Lough Dental Practice (Dr Sean Toomey)",
+        "to_email": "loughdentalpractice@gmail.com",
+        "subject": "how patients find you in the Lough",
+        "preview": "Strong reputation, but the search side is quietly costing you the bigger cases.",
+        "body": "Dr Toomey,\n\nI had a look at how the practice shows up online. The reputation in the Lough is clearly there, but when I searched, all I found was your Google listing and a templated PaxAd mini-page, with a handful of older reviews. No real site of your own, no easy way to book.\n\nFor crowns, veneers and root canal work, people tend to research quietly for weeks before they ring anyone. Right now a lot of that is landing with practices that are simply easier to find.\n\nI'd build you a proper dedicated site and a quiet system that keeps fresh reviews coming in, at our cost up front. We'd only get paid as a share of the new enquiries it actually brings you, tracked so you can see every one.\n\nWorth a 10-minute call to show you what I mean? No pitch, and entirely your call.\n\nOla Seweje\nFounder, direct line below",
+        "ps": "P.S. Happy to send a quick screen recording of what I'd change first, if that's easier than a call.",
+        "doorway": "V1 sell-growth",
+        "personalisation_hook": "Online presence is only a Google listing plus a templated PaxAd mini-page on paxad.ie, with ~25 older reviews, no owned website and no booking — despite a strong local reputation.",
+        "case_study_used": "Founder credibility (Ola Seweje): 9 years coordinating contractors on Transport for London infrastructure programmes, APM/PMP/CDMP qualified — calm delivery discipline, not a tech salesperson.",
+        "send_notes": "Channel: cold B2B email to a published practice address (loughdentalpractice@gmail.com), legitimate-interest basis. Plain-text, no tracking pixel, no image header. Include a real direct phone line and a one-line opt-out in the footer (\"If this isn't useful, reply 'no thanks' and I'll leave you be — you won't hear from me again.\"). Honour any opt-out immediately and suppress the address. ROI/PECR-compliant for B2B prospecting in Ireland/UK."
+      },
+      {
+        "business": "Campion Denture Clinic and Laboratory Ltd (Campion Dental Laboratory)",
+        "to_email": "kierancampion@live.com",
+        "subject": "campion.dental isn't loading",
+        "preview": "Your site doesn't resolve, so people checking before they ring find nothing.",
+        "body": "Kieran,\n\nI went looking for Campion Denture Clinic and found the Facebook page and a couple of directory listings, but campion.dental doesn't load and there are no Google reviews collected yet.\n\nFor private denture and cosmetic work, people now check Google before they ring. With nothing to find, you're likely losing quiet enquiries to clinics that simply show up better.\n\nI'd build you a clean one-page site for free, no strings, and set up a simple way to gather Google reviews from happy patients. (I'm not a tech salesperson — I spent 9 years coordinating contractors on Transport for London projects, so I keep things plain and done properly.)\n\nIf it starts bringing you enquiries, we can talk about a fair share then. If not, you keep the site.\n\nWorth a quick 10-minute call? No pitch, entirely your call.\n\nEoin Walsh\nPartner, Direct line: 087 000 0000",
+        "ps": "P.S. Even before a site, getting a handful of Google reviews live would help people find you this month.",
+        "doorway": "V1 sell-growth",
+        "case_study_used": "Founder credibility (Ola Seweje / 9 years TfL contractor coordination)",
+        "personalisation_hook": "campion.dental does not resolve; presence is limited to a Facebook page and passive directory listings, with zero Google reviews collected.",
+        "send_notes": "Channel: cold B2B email to a business address. Lawful basis: legitimate interest (B2B, relevant service to a dental lab owner). Include a plain-text opt-out line in the footer, e.g. \"If this isn't useful, just reply 'no thanks' and I'll leave you be — no hard feelings.\" Plain-text send, no tracking pixels or image banners. Honour any opt-out immediately and suppress."
+      },
+      {
+        "business": "Mairi Urquhart & Son Funeral Group",
+        "to_email": "info@mairiurquhartandson.com",
+        "subject": "noticed something about your listings",
+        "preview": "Twenty years of trust, but it doesn't show up where families look.",
+        "body": "Dear Mairi and David,\n\nI had a look at how Mairi Urquhart & Son shows up online across Alness, Muir of Ord and Dornoch. You've clearly earned real trust across three communities over twenty years, but that goodwill is almost invisible on Google. There are no reviews on any of your three listings, so a family searching \"funeral director near me\" in Ross-shire sees nothing of what you've built.\n\nI'd like to set up a simple, dignified way to gently invite families to leave a review when the time feels right, and tidy the website while I'm at it. No cost, no obligation.\n\nI'm Ola. Before this I spent nine years coordinating contractors on Transport for London projects, so I work quietly and carefully, not pushy.\n\nWould it be alright if I sent over a short example of how it would look? Just a yes is fine.\n\nWhenever suits,\nOla Seweje\nDirector",
+        "ps": "P.S. Nothing changes on your site without you seeing it first.",
+        "send_notes": "Send as plain text, B2B cold outreach. Include a one-line opt-out in the footer: \"If this isn't useful, reply 'stop' and I'll leave you be.\" No tracking pixels or images. Direct phone/title in signature for the live send.",
+        "doorway": "V1 sell-growth",
+        "personalisation_hook": "Zero Google reviews across all three branch listings (Alness, Muir of Ord, Dornoch), so families searching locally see no social proof despite 20 years of earned trust.",
+        "case_study_used": "Founder credibility (Ola Seweje, 9 years coordinating contractors on Transport for London programmes) — chosen over the Essex HVAC case to keep the tone calm and respectful for the funeral sector."
+      },
+      {
+        "business": "Karen Lowe Dental Surgery",
+        "to_email": "dentist@karenlowe.ie",
+        "subject": "one review for 20 years",
+        "preview": "Twenty years of happy patients, one review showing online — that gap is fixable.",
+        "body": "Dr Lowe,\n\nI had a look at your practice while searching \"dentist Terenure.\" Twenty years in, clearly built on word of mouth — but only one review shows up online anywhere, and the website is a single page with no way to book or leave feedback. So the people you've already made happy aren't being seen by the ones searching now.\n\nThat's a quiet leak, not a failure. A heating firm in Essex had the same problem with missed enquiries; once we set up proper follow-up they recovered about £3,200/month. Same idea here — turn existing patients into Google reviews and give newcomers a way to book.\n\nI'd build the new site and the review setup at our cost, and only get paid on the new patients we actually bring you. No upfront spend, no risk to you.\n\nWorth a 10-minute call to see if it fits? Entirely your call.\n\nOla Seweje\nDirector — direct: [number]",
+        "ps": "P.S. Before TfL I spent nine years coordinating contractors on infrastructure programmes — old-school delivery, not a tech salesman.",
+        "send_notes": "Send B2B from a real monitored inbox (plain text, no tracking pixels or heavy graphics). Include a one-line opt-out, e.g. \"If this isn't useful, reply 'stop' and I'll leave you be — you won't hear from me again.\" Insert Ola's real direct line before sending.",
+        "doorway": "V1 sell-growth",
+        "case_study_used": "Essex HVAC firm (+£3,200/mo from missed-enquiry follow-up); founder credibility (Ola Seweje, 9 yrs TfL infrastructure programmes)",
+        "personalisation_hook": "Despite 20 years in Terenure, only one review shows online anywhere and the website is a single static page with no online booking or feedback option — so patients searching \"dentist Terenure\" rarely find her."
+      },
+      {
+        "business": "L. Dollay Optometrist",
+        "to_email": "northeathopticians@dollay.com",
+        "subject": "your reviews vs your reputation",
+        "preview": "Two decades in the chair, one or two reviews online — that gap is costing you patients.",
+        "body": "Hi Lakhbinder,\n\nI had a look at your practice. Two branches, the better part of two decades trading, hospital-grade OCT scanning — and online, just one or two reviews across the whole web. That's well below what a practice of your standing should show.\n\nMost people check reviews before booking an eye test now. New patients aren't seeing the reputation you've built in the chair, so a few are quietly choosing competitors who simply look more established online.\n\nI'd like to fix that for you for free — build you a tidy site with proper review collection, so the trust you've already earned shows up where patients look. No catch. If it helps, all I'd ask later is one honest review and a referral.\n\nI'm not a tech salesman — 9 years coordinating contractors on Transport for London, then this.\n\nWorth a quick 10-minute call? Yes or no is fine.\n\nOla Seweje\nFounder, direct: [your number]",
+        "ps": "PS — your in-chair care clearly isn't the problem; the only gap is that almost nobody online can see it yet.",
+        "doorway": "V1 sell-growth",
+        "case_study_used": "Founder credibility (9 years coordinating contractors on Transport for London infrastructure programmes)",
+        "personalisation_hook": "Two branches and ~15-20 years trading plus hospital-grade OCT scanning, yet only 1-2 reviews across the entire web and no review-collection in place.",
+        "send_notes": "Send as plain-text B2B email (no images/tracking pixels) from a real monitored inbox with a working reply-to. Include a one-line opt-out in the footer, e.g. \"If this isn't useful, just reply 'no thanks' and I'll leave you be — or unsubscribe here [link].\" Insert Ola's real direct phone number before sending. UK PECR/GDPR: legitimate-interest B2B outreach with clear, easy unsubscribe honoured on request."
+      },
+      {
+        "business": "St. Margarets Residential Home",
+        "to_email": "infostmargarets@gmail.com",
+        "subject": "when a sidcup family searches",
+        "preview": "St. Margarets shows up in directories, but not with its own page",
+        "doorway": "V1 sell-growth",
+        "personalisation_hook": "When a family searches for a Sidcup care home, St. Margarets only appears via directories like carehome.co.uk and Autumna, not its own website, and the most recent review showing is from 2023.",
+        "case_study_used": "Essex HVAC firm (proof of method) + founder credibility (Ola Seweje, 9 years coordinating contractors on Transport for London programmes)",
+        "body": "Hi Uday,\n\nI went looking for St. Margarets the way a family would, searching for a Sidcup care home. You come up through directories like carehome.co.uk and Autumna, but not with your own page, and the newest review showing is from 2023.\n\nFor a home where beds fill on reputation and referral, that means families can land on a competitor before they ever find you directly.\n\nI'd like to build you a simple one-page website, free, no strings. Your CQC 'Good' rating, room details and fees, so the right families find you first. The only thing I'd ask afterwards is an honest review and the truth about your biggest day-to-day headache.\n\nI'm not a tech salesman. I spent nine years coordinating contractors on Transport for London programmes, so I keep things plain and done properly.\n\nWorth a quick yes, and I'll send a draft to look over? Entirely your call.\n\nOla Seweje",
+        "ps": "PS: The page would be yours to keep either way, even if we never speak again.",
+        "send_notes": "B2B cold outreach to a publicly listed business email (infostmargarets@gmail.com). Plain-text, no tracking pixels or heavy graphics. Include a one-line opt-out in the footer, e.g. \"If this isn't useful, reply 'no thanks' and I'll leave you be, no follow-ups.\" Sign with a real name, title and direct phone line before sending."
+      },
+      {
+        "business": "Malahide Dental Practice (Dr Niall Gough)",
+        "to_email": "malahidedentalpractice@eircom.net",
+        "subject": "noticed this about Malahide search",
+        "preview": "A long-standing practice with almost nothing pulling in new private patients online.",
+        "body": "Niall,\n\nYou've built a well-regarded practice opposite the DART, and people clearly trust you. But online it's quiet: a dated site, a handful of scattered reviews, and no real way for happy patients to leave one. For high-value work like implants or whitening, that's leads walking past you.\n\nI'm not a tech salesperson. I spent nine years coordinating contractors on Transport for London programmes, so I tend to fix things quietly rather than sell them.\n\nOne example, different field: a heating firm in Essex went from 2-3 jobs a week to 6-8 (about +£3,200/mo) once we recovered the enquiries they were missing. Same leak, different sector.\n\nHere's the offer: we build you a clean site and a system that quietly collects Google reviews, at no upfront cost. We only get paid when we actually bring you a new implant or whitening patient. The risk sits with us.\n\nWorth a 10-minute call to see if it fits?\n\nOla Seweje\nFounder\n+44 7XXX XXX XXX",
+        "ps": "PS - even if you'd rather just keep the site as-is, I'm happy to tell you the one thing I'd fix first, no strings.",
+        "case_study_used": "Essex HVAC firm (+£3,200/mo from recovered missed enquiries)",
+        "doorway": "V1 sell-growth",
+        "personalisation_hook": "Long-standing, well-regarded practice opposite the DART in Malahide, but online it's a dated site with only a few scattered reviews and no review-collection system despite high-ticket private dentistry.",
+        "send_notes": "Channel: email to malahidedentalpractice@eircom.net. B2B cold outreach - include a clear plain-text opt-out line at the foot (\"If this isn't useful, just reply 'stop' and I'll leave you be - I won't email again.\"). No tracking pixels, no image-heavy template; send as plain text for deliverability with an older eircom.net inbox. Replace +44 7XXX placeholder with Ola's real direct line before sending. Note: real Google rating not verified, so the email references \"scattered reviews\" rather than asserting a specific star count."
+      },
+      {
+        "business": "St John's Hearing Aid Centre Ltd",
+        "to_email": "info@stjohnshac.co.uk",
+        "subject": "50 years, hard to find online",
+        "preview": "Your reputation isn't showing up when people search Musselburgh",
+        "body": "Hello,\n\nYou've built St John's into a trusted name across East Lothian over 50 years. But when I searched \"hearing test Musselburgh\" and \"ear wax removal Edinburgh\" this week, you barely came up, and there's almost nothing in the way of Google reviews. So all that goodwill you've earned offline stays mostly invisible to people choosing where to go.\n\nI help local firms fix exactly that. A heating company in Essex was losing enquiries the same quiet way; once we tidied up how they got found and followed up, they recovered about £3,200 a month. Different trade, same leak.\n\nHere's my offer: I'll rebuild your Musselburgh page as a clean modern site and set up automatic review collection, at no cost. I only get paid later, on the leads I actually bring you.\n\nWorth a 10-minute call to see if it fits? No pitch, entirely your call.\n\nOla Seweje\nFounder, direct line below",
+        "ps": "P.S. The .asp site still works, it just doesn't show off 50 years the way it could.",
+        "doorway": "V1 sell-growth",
+        "case_study_used": "Essex HVAC firm (+£3,200/mo from recovered enquiries) as proof of method; honest different-sector framing",
+        "personalisation_hook": "Searched \"hearing test Musselburgh\" and \"ear wax removal Edinburgh\" and St John's barely appears, with almost no Google reviews despite 50 years and multiple branches",
+        "send_notes": "B2B cold email to a published business address (info@stjohnshac.co.uk). Send as plain text, no tracking pixels or heavy graphics. Include a clear one-line opt-out in the footer, e.g. \"If this isn't useful, reply 'no thanks' and I'll leave you be — you won't hear from me again.\" Honour any opt-out immediately and suppress the address. Include sender's real name, business name, postal address and a working direct phone number to meet PECR/GDPR legitimate-interest and UK marketing requirements."
+      },
+      {
+        "business": "Dr Ciaran Casey Dentist",
+        "to_email": "drciarancasey@gmail.com",
+        "subject": "your terenure reviews",
+        "preview": "25 years of goodwill that doesn't show online yet",
+        "doorway": "V1 sell-growth",
+        "personalisation_hook": "25-year Terenure practice with a brochure-only site (appointment-request form, no real online booking) and effectively no Google reviews despite thousands of happy patients",
+        "case_study_used": "Essex HVAC firm (+£3,200/mo from missed-call capture and instant lead follow-up) as proof of method",
+        "body": "Dr Casey,\n\nYou've built 25 years of trust in Terenure, but almost none of it shows online. Your site is a brochure with no real booking, and you've effectively no Google reviews despite thousands of happy patients. For implants and crowns, that quietly sends high-value enquiries to newer practices that simply look more active.\n\nI work with an Essex heating firm where we set up instant lead follow-up and missed-call capture, and they recovered about £3,200/month. Different trade, same leak: good people losing enquiries they never see.\n\nHere's my offer. I'll fix the visible part first, for free, and turn some of that goodwill into reviews. After that, you only pay me on the new implant and crown enquiries I actually bring you. No retainer.\n\nWorth a 10-minute call, no pitch?\n\nOla Seweje\nFounder, [Agency]\nDirect: [phone]",
+        "ps": "PS - the review system is yours to keep either way, no strings.",
+        "send_notes": "Send as plain text from a real monitored inbox (B2B, Ireland). Include a one-line opt-out: \"If this isn't useful, reply 'no thanks' and I'll leave you be.\" Honours easy unsubscribe per PECR/GDPR. Replace [Agency] and [phone] with real details before sending."
+      },
+      {
+        "business": "FX Rowan & Co. Solicitors",
+        "to_email": "info@fxrowan.ie",
+        "subject": "noticed this on fxrowan.ie",
+        "preview": "A leftover demo page and no reviews — for a 30-year PI firm, that's leads walking past.",
+        "body": "Francis,\n\nI was looking at Dublin personal-injury firms and stopped on yours. Nearly 30 years in practice, and the reputation clearly shows in the work — but the site still has a leftover /demo/ template page, and I couldn't find a single review on Google or anywhere else.\n\nFor PI that matters. When someone's just been injured, they search, read reviews, and call whoever looks trusted. Right now that's not you, despite the track record. A single case you'd have won is a real settlement fee gone.\n\nWe fix two things: a proper site and a simple system that asks every happy client for a review. We build and run it at our cost and only get paid on the leads we actually bring you — nothing if we bring nothing.\n\nWould it help if I sent you a 2-minute screen recording of what a prospective client sees today? No obligation, your call.\n\nOla Seweje\nFounder | 9 yrs delivery on TfL infrastructure programmes",
+        "ps": "P.S. The demo page is public — worth taking down either way, whether or not we ever speak.",
+        "send_notes": "Send as plain-text B2B email to info@fxrowan.ie (no images, no tracking pixels). Lawful B2B outreach to a published business address; include a one-line opt-out in the footer, e.g. \"If this isn't useful, reply 'stop' and I'll leave you be — you won't hear from me again.\" Honour any opt-out immediately.",
+        "doorway": "V1 sell-growth",
+        "case_study_used": "Founder credibility (Ola Seweje, TfL delivery background) — no same-sector client fabricated; Essex HVAC omitted to keep email under length and sector-honest.",
+        "personalisation_hook": "Leftover /demo/ template page still live on fxrowan.ie plus zero reviews on any platform, despite nearly 30 years of PI practice."
+      },
+      {
+        "business": "James Cockburn Funeral Directors",
+        "to_email": "enquiries@jamescockburn.co.uk",
+        "subject": "the families who never left a word",
+        "preview": "90 years of care in Govan, almost none of it visible online",
+        "doorway": "V1 sell-growth",
+        "personalisation_hook": "Decades of families clearly cared for, yet almost no collected reviews anywhere online and no system to capture them.",
+        "case_study_used": "Founder credibility (Ola Seweje, 9 years coordinating contractors on Transport for London programmes, APM/PMP/CDMP)",
+        "body": "Dear Gavin,\n\nI noticed something looking at James Cockburn. Ninety-odd years serving Govan, the last family name still standing locally, and you carrying the third generation of it. Yet online there's almost no trace of what those families thought of the care they received.\n\nThe next family searching \"funeral directors Govan\" at a hard moment finds the firm, but not the goodwill that's clearly already there. It just isn't being captured.\n\nI'd like to fix that quietly and for free: a clean, modern site, plus a simple, gentle way for grateful families to leave a word when the time feels right. No obligation.\n\nHonestly, I'm not a tech salesman. I spent nine years coordinating contractors on Transport for London programmes, so I value getting the quiet, careful things right.\n\nWould you be open to a 10-minute call, no pitch, whenever suits?\n\nKind regards,\nOla Seweje\nDirector, [Agency]\n[direct line]",
+        "ps": "P.S. If now isn't the time, just say so and I'll leave you be.",
+        "send_notes": "Send as plain-text B2B email to enquiries@jamescockburn.co.uk (no tracking pixels, no images). Include a one-line footer with sender postal address and an easy opt-out, e.g. \"Reply STOP or 'unsubscribe' and I won't contact you again\" — compliant with UK PECR/GDPR B2B soft-contact rules. Insert real agency name and a real direct phone line before sending."
+      },
+      {
+        "business": "Beaver Architectural Ironmongery Limited",
+        "to_email": "sales@beaverai.co.uk",
+        "subject": "how Croydon contractors find you",
+        "preview": "A quick thing I noticed when I searched for your trade",
+        "body": "Hi Gary,\n\nYou've supplied architectural ironmongery across South London for 25+ years, but when I searched today I landed on the old brochure site with barely any reviews behind it. So a contractor who doesn't already know Beaver has little reason to call you instead of the next firm.\n\nHere's the thing: the work and the reputation are already there. They're just not visible online, so good enquiries go elsewhere.\n\nA heating and cooling firm in Essex had the same leak in a different shape. We set up proper lead capture and they went from 2-3 jobs a week to 6-8 — about +£3,200/mo recovered. Same principle: stop losing the enquiries you've already earned.\n\nI'd rebuild your site and add a simple way for builders to send floor plans for a quote, at our cost. We only talk money once real enquiries start landing.\n\nWorth a 10-minute call? No pitch, your call entirely.\n\nOla Seweje\nDirector, Cobbleton Digital\n07-direct-line",
+        "ps": "PS: 9 years coordinating contractors on Transport for London jobs, so I know the trade, not just the website side.",
+        "doorway": "V1 sell-growth",
+        "case_study_used": "Essex HVAC firm (+£3,200/mo via lead capture)",
+        "personalisation_hook": "Dated brochure-only site (\"The home Page for ironmongery\"), no e-commerce or quote tool, and only a handful of stale directory reviews — so contractors searching today can't easily find or vet 25+ years of work.",
+        "send_notes": "Send as plain-text B2B email from a real human inbox/direct line — no tracking pixels or heavy graphics. Include an easy one-line opt-out in the footer, e.g. \"If this isn't useful, reply 'no thanks' and I'll leave you be — you won't hear from me again.\" Confirm the current key decision-maker (Gary Bevan vs other directors) on the Companies House officers page before sending; swap the name if needed. Better still, call the main line first and follow up with this email."
+      },
+      {
+        "business": "Goskirk Pettinger Optometrists & Opticians",
+        "to_email": "dingwall@gpoptom.com",
+        "subject": "your reviews vs your reputation",
+        "preview": "Four practices since 1974, but barely a handful of reviews online",
+        "body": "Hello,\n\nI had a look at Goskirk Pettinger before writing. Four Highland practices, independent since 1974, and a genuinely solid website. So this isn't a pitch about your site.\n\nWhat I did notice: across all four locations you've only got single-digit Google reviews. After 50 years of happy patients, that's a lot of earned goodwill that nobody searching \"opticians Dingwall\" or \"opticians Inverness\" ever sees.\n\nIt's not a website problem. It's that nothing is quietly asking satisfied patients to leave a word after their eye test.\n\nI help small firms fix exactly that with a simple, hands-off flow. For a heating firm in Essex, recovering missed enquiries the same way brought back about £3,200 a month. Different trade, same leak: trust you've earned but aren't capturing.\n\nI'd set this up free across the four practices, no strings, in exchange for your honest feedback.\n\nWorth a 10-minute call, no pitch? Just yes or no is fine.\n\nOla Seweje\nFounder, direct line on request",
+        "ps": "P.S. Nine years coordinating contractors on Transport for London works taught me to keep things simple and let the results speak.",
+        "case_study_used": "Essex HVAC firm (+£3,200/mo via missed-lead recovery), as proof of method",
+        "doorway": "V1 sell-growth",
+        "personalisation_hook": "Four established Highland practices (independent since 1974) with a solid modern site, yet only single-digit Google reviews each and no system capturing decades of patient goodwill.",
+        "send_notes": "Channel: cold B2B email to published business address dingwall@gpoptom.com (legitimate-interest basis, UK PECR/GDPR B2B). Include a plain-text one-line opt-out in the footer, e.g. \"If this isn't useful, reply 'stop' and I'll leave you be — no follow-ups.\" Send plain text, no tracking pixels or image banners, from a real named human with a reply-to address."
+      },
+      {
+        "business": "McNicol Property Consultants",
+        "to_email": "scott@mcnicolproperty.co.uk",
+        "subject": "no reviews showing for you",
+        "preview": "20 years of RICS work, and Google shows none of it",
+        "body": "Scott,\n\nI had a look at McNicol Property Consultants before writing. Twenty years of RICS-backed commercial work, but on Google there's no reviews showing and nothing to capture the people searching for a surveyor in Glasgow. For instructions of your size, that's a lot of landlords and tenants finding someone else first.\n\nI run a small outfit that fixes exactly that. We'd build the search side and the review-collection at our own cost, and we'd only get paid on the qualified leads we actually bring you, above whatever you're already getting. No upfront fee, nothing to lose if it doesn't work.\n\nTo be straight with you, my proof so far is outside surveying: a heating firm in Essex went from 2-3 jobs a week to 6-8 once we captured the enquiries they were missing, about +£3,200/mo. Same leak, different trade.\n\nWorth a 10-minute call to see if the numbers stack up? Yes or no is fine.\n\nSteve Adesina\nPartner, direct line 0203 XXX XXXX",
+        "ps": "P.S. The reviews piece alone tends to move the needle for established firms, since the trust is already there, it's just invisible right now.",
+        "case_study_used": "Essex HVAC firm: +£3,200/mo from missed-call/lead capture, ~2-3 to ~6-8 jobs/week",
+        "personalisation_hook": "Zero visible Google reviews and no review-collection system despite a 20-year RICS commercial practice handling high-value instructions",
+        "doorway": "V1 sell-growth",
+        "send_notes": "Channel: cold B2B email to a business address (legitimate interest basis, UK GDPR/PECR-compliant for B2B). Include a plain-text one-line opt-out in the footer, e.g. \"If this isn't useful, reply 'stop' and I'll leave you be — no hard feelings.\" Send plain-text, no tracking pixels or heavy graphics. Replace 0203 XXX XXXX with the real direct line before sending."
+      },
+      {
+        "body": "Hi there,\n\nYou've been looking after Orpington and the surrounding villages since 1987, with a full team of chartered physios. That's a long track record. The odd thing is that online it barely shows: I count around five scattered reviews across Google, Birdeye and Yell, and almost nothing on Google itself. These days that's where most people pick a clinic, so newer patients searching \"physio near Orpington\" may never see how trusted you actually are.\n\nI'd like to quietly fix the most visible part of that first, at no cost to you. In return I'd only ask for an honest review and your take on your biggest headache right now.\n\nI'm not a tech salesperson. Before this I spent nine years coordinating contractors on Transport for London programmes, so I work in plain, careful steps.\n\nWorth a quick 10-minute call, no pitch? Entirely your call.\n\nSteve",
+        "business": "The Village Physiotherapy Clinic",
+        "to_email": "info@village-physio.co.uk",
+        "subject": "quick thing about your orpington reviews",
+        "preview": "38 years in, but barely visible on Google search",
+        "case_study_used": "Founder credibility (Ola Seweje / TfL programme coordination)",
+        "doorway": "V1 sell-growth",
+        "personalisation_hook": "A 38-year-old multi-physio clinic (est. 1987) with only ~5 scattered, stale reviews across Google/Birdeye/Yell and almost nothing on Google itself.",
+        "ps": "PS - this isn't about your website, which works fine. It's just that the trust you've earned over 38 years isn't showing up where people now look.",
+        "send_notes": "Channel: email to info@village-physio.co.uk (B2B). Add a one-line plain-text opt-out in the footer, e.g. \"If this isn't useful, reply 'no thanks' and I'll leave you be.\" Send as plain text, no images or tracking pixels, from a real named sender with a direct phone line and title to comply with UK PECR/GDPR soft opt-out norms. Used founder credibility rather than the Essex HVAC case study, since HVAC missed-call recovery doesn't map cleanly to a review-visibility gap for a physio clinic and the transfer line would have felt forced."
+      },
+      {
+        "business": "D.S. Macdonald Watchmaker & Jeweller",
+        "to_email": "Sales@dsmacdonald.co.uk",
+        "subject": "noticed this on your repairs side",
+        "preview": "Your Nomination shop is solid — the watch-repair enquiries are the bit leaking.",
+        "body": "Mr Macdonald,\n\nI had a proper look at your Nomination shop online — it's genuinely well built, so I won't pretend you need a new site.\n\nThe one thing I noticed: for a watch repairer trusted with Rolex, Omega and Tag for 40-plus years, there's almost no Google review trail and no easy way to book a repair online. That's exactly where the high-value enquiries quietly go to bigger names instead.\n\nI did similar for a heating firm in Essex — by catching the leads they were missing, that was about +£3,200/mo recovered, for a fraction of the cost. Different trade, same leak: an enquiry that doesn't get captured doesn't come back.\n\nI'd set up a simple review-capture and repair-enquiry system at no cost first. We only talk about anything ongoing if it actually brings you work — entirely your call.\n\nWorth a quick 10-minute call, no pitch?\n\nOla Seweje\nDirector — [direct line]",
+        "ps": "P.S. Before this I spent 9 years coordinating contractors on Transport for London programmes — I'm old-school about delivery, not a tech salesman.",
+        "doorway": "V1 sell-growth",
+        "case_study_used": "Essex HVAC firm (+£3,200/mo from recovered missed leads) plus founder credibility (Ola Seweje, 9 yrs TfL contractor coordination)",
+        "personalisation_hook": "Strong Nomination e-commerce shop, but almost no Google review trail and no online repair-booking for the high-ticket watch-repair side trusted with Rolex/Omega/Tag for 40-plus years.",
+        "send_notes": "Send as plain-text B2B email from a real human address with a real direct line (no no-reply, no tracking pixels, no image-heavy template). Include a one-line opt-out, e.g. \"If this isn't useful, just reply 'no thanks' and I'll leave you be — no further emails.\" Compliant under PECR/UK GDPR B2B soft-opt-out: relevant to the recipient's business, named sender, easy unsubscribe honoured."
+      },
+      {
+        "business": "Harper Hair Salon",
+        "to_email": "Info@harperhairsalon.com",
+        "subject": "harperhairsalon.com isn't loading",
+        "preview": "You come up well on Facebook, but there's no site when people search you.",
+        "body": "Hi there,\n\nI went looking for Harper Hair Salon the way a Southside customer would, and you come up well on Facebook and those old Gary Thomson reviews. But harperhairsalon.com doesn't actually load, so anyone searching for you lands on a directory or nothing. That's bookings going to whoever turns up first.\n\nI build clean one-page sites for local businesses. I'd like to build you one, free, no strings: your services, your Wella colour work, photos, and a click-to-book button, so you own your search result instead of Facebook owning it.\n\nHonestly, this is one offer to one salon, not a big agency. If it brings you customers, all I'd ask later is help getting a few Google reviews flowing.\n\nWorth a quick 10-minute call to see what you'd want on it? No pitch. Entirely your call.\n\nOla Seweje\nFounder, Direct: [your number]",
+        "ps": "PS - if the site's just quietly parked, that's an easy fix; I can show you what it'd look like first, no obligation.",
+        "case_study_used": "None (founder credibility / honest one-salon framing used instead of Essex HVAC, which doesn't map to a salon)",
+        "personalisation_hook": "harperhairsalon.com doesn't resolve, so searchers land on a directory or nothing despite a decent Facebook presence and the old Gary Thomson reviews",
+        "doorway": "V1 sell-growth",
+        "send_notes": "Send B2B as plain text (no images/tracking pixels) from a real human mailbox. Include a one-line opt-out in the footer, e.g. \"If this isn't useful, reply 'stop' and I'll leave you be — I won't email again.\" Compliant under PECR/UK GDPR B2B soft-contact: legitimate-interest basis, named sender, real reply address, easy unsubscribe honoured on first request."
+      },
+      {
+        "business": "Copsey Murray Chartered Accountants",
+        "to_email": "info@copseymurray.ie",
+        "subject": "noticed this on your site",
+        "preview": "A 50-year audit firm shouldn't be flagged \"Not secure\" — quick offer inside.",
+        "body": "Hello,\n\nI had a look at the Copsey Murray site this week. Two things stood out, and I think both are easy fixes for a firm of your standing.\n\nFirst, the site still runs on plain http://, so most browsers now show it as \"Not secure\" with no padlock. For a 50-year audit practice, that quietly undercuts trust before a prospect reads a word.\n\nSecond, after decades of corporate clients, there isn't a single review online. That's years of goodwill sitting invisible.\n\nI'd rebuild a clean, secure version of your site at no cost — a demonstration, no strings. If it's useful, all I'd ask in return is one honest review and the truth about your biggest headache.\n\nI'm not a marketing salesperson; I spent nine years coordinating contractors on Transport for London programmes, so I value getting the detail right.\n\nWorth a 10-minute call? A yes or no is plenty.\n\nOla Seweje\nFounder, APM/PMP qualified",
+        "ps": "PS — the security flag is the one I'd sort first; it's the only thing on the page a new client sees before they meet you.",
+        "doorway": "V1 sell-growth",
+        "case_study_used": "Founder credibility (Transport for London / APM/PMP) — no same-sector client fabricated",
+        "personalisation_hook": "Their live website still runs on plain http:// (flags as \"Not secure\", no padlock) and has zero online reviews despite 50+ years and a corporate client base.",
+        "send_notes": "B2B cold email to a published business address (info@copseymurray.ie), permitted under PECR/GDPR legitimate-interest for B2B. Include a one-line plain-text opt-out, e.g. \"Prefer I don't write again? Reply 'stop' and I'll leave you be.\" Plain-text send, no tracking pixels or image banners. Honour any opt-out immediately and suppress the address."
+      },
+      {
+        "business": "James Wilson & Co (Wilson Tractors (Berryhill) Ltd)",
+        "to_email": "david@wilsontractors.co.uk",
+        "subject": "your site vs your reputation",
+        "preview": "Built since 1968, but a new buyer Googling you finds almost nothing",
+        "body": "David,\n\nI had a proper look at Wilson Tractors. The name clearly carries weight in Ayrshire and well beyond, but the website reads a few generations behind the machinery you actually sell, and there's almost no review trail when a new retail or export buyer Googles you first.\n\nThat's a quiet leak. Strong reputation offline, near-invisible online.\n\nI'm not a tech salesperson. I spent 9 years coordinating contractors on Transport for London programmes before this, so I work the way the trade does: plain and finished properly.\n\nHere's the offer. I'll rebuild the front of your site so the stock and the reputation you've built since 1968 actually show, with a simple way to capture a line of feedback from happy buyers. No charge. If it does its job, all I'd ask is an honest review and, if you know someone it'd suit, a referral.\n\nWorth a 10-minute call, no pitch? Yes or no is a fine answer.\n\nOla Seweje\nFounder, [agency]\n[direct line]",
+        "ps": "PS If now's a bad time with the season, just say so and I'll leave it.",
+        "send_notes": "Send via standard B2B email (one-to-one, plain text, no tracking pixels or heavy graphics). Lawful basis: legitimate interest, B2B prospecting under UK GDPR/PECR (corporate subscriber). Include a one-line opt-out in the footer, e.g. \"Reply 'stop' or 'no thanks' and I won't contact you again\" — honour immediately and suppress. Sending domain should have SPF/DKIM/DMARC aligned. Fill [agency] and [direct line] before send.",
+        "doorway": "V1 sell-growth",
+        "case_study_used": "Founder credibility (Ola Seweje, 9 years TfL contractor coordination) — no fabricated same-sector client; Essex HVAC omitted as a poor sector fit for trade/export manufacturer",
+        "personalisation_hook": "Dated legacy-style website that reads generations behind the machinery they sell, plus almost no surfaced Google reviews when a new retail or export buyer searches them"
+      },
+      {
+        "business": "Nettlestead Care Home",
+        "to_email": "enquiries@nettlestead.com",
+        "subject": "your 9.7 reviews and your own site",
+        "preview": "A small fix so families searching for care actually see them.",
+        "body": "Hi Adrienne,\n\nI had a look at Nettlestead. The 9.7 on carehome.co.uk and the CQC Good rating speak for themselves — clearly years of real work behind that.\n\nOne thing I noticed: all that praise lives on third-party sites, not your own pages. So a family searching locally lands on your site and sees a good home, but not the proof that's already out there. There's also no simple way for visitors to leave a review or start an enquiry in a click or two.\n\nI'm not a tech salesman — I spent nine years coordinating contractors on Transport for London. I'd set up a first-party review-capture and a clearer enquiry path on your site, no cost, no strings. I only ask for an honest opinion afterwards.\n\nFor an Essex firm, just tidying how enquiries got captured recovered about £3,200/month. Same leak, different trade.\n\nWorth a quiet 10-minute call? Entirely your call.",
+        "ps": "PS — happy to send a short before/after mock-up first so you can judge it without a meeting.",
+        "signoff_name": "Ola Seweje",
+        "doorway": "V1 sell-growth",
+        "case_study_used": "Essex HVAC firm (+£3,200/mo from missed-call capture + instant follow-up)",
+        "personalisation_hook": "All of Nettlestead's strong reviews (9.7 on carehome.co.uk, CQC Good) sit on third-party sites, with no first-party review-capture or clear enquiry path on their own well-built website.",
+        "send_notes": "Channel: email to enquiries@nettlestead.com (B2B). Plain-text style, no tracking pixels or heavy graphics. Include physical business address and a one-line opt-out in footer: \"If this isn't useful, just reply 'no thanks' and I'll leave you be — you won't hear from me again.\" Compliant with UK PECR/GDPR B2B soft-contact; honour any opt-out immediately and suppress."
+      }
+    ],
+    "reachable_count": 22,
+    "generated_at": "2026-06-28"
+  }
 }
