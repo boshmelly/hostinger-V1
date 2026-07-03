@@ -9,6 +9,7 @@
 - [[interactive-experiences]] — patterns to make generated sites feel premium (brand game, estimator, before/after, reveals)
 - [[brand-website-design]] — bespoke animated website design from a brief, with real copy and visuals
 - [[service-display-loop]] — the 4-beat service loop component spec, plus Higgsfield/TikTok reuse and in-store screen mode
+- [[ponytail-integration]] — minimal code discipline for all Klaudius components (YAGNI ladder, review QA)
 
 ## Current status (2026-07-03)
 
