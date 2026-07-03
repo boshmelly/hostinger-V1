@@ -85,4 +85,4 @@ If your Klaudius pipeline has its own entry script (Node, Python, whatever), poi
 - I have no SSH access to your VPS from this session, so I cannot install this for you directly. The scripts are ready, the install is two commands above.
 - If you want me to drive the install, give me a session with VPS access (or run `setup-vps.sh` yourself and paste any errors here).
 
-Related: [[interactive-experiences]] · [[service-display-loop]]
+Related: [[interactive-experiences]] · [[service-display-loop]] · [[247VpsDeployment-Template]]

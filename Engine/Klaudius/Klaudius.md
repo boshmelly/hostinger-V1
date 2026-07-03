@@ -6,7 +6,7 @@
 ## Files
 
 **Deployment & templates:**
-- [[DEPLOYMENT-TEMPLATE]] — parameterized, multi-instance setup guide (license-aware, any VPS, copy-paste ready)
+- [[247VpsDeployment-Template]] — parameterized, multi-instance setup guide (license-aware, any VPS, copy-paste ready)
 - [[PR-GLOSSARY]] — PR history, what shipped in each, license key reference
 
 **Operations & architecture:**
