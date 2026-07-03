@@ -6,7 +6,7 @@
 
 ## The loop unit
 
-Each service cycles through a 4-beat card, auto-advancing, pause on hover:
+Each service cycles through a 4-beat card, auto-advancing, pause on hover. Designed to run hands-off on repeat for screens and stands (in-store showreel mode), or inline on the website:
 
 | Beat | Content | Example (electrician) |
 |---|---|---|
@@ -40,8 +40,18 @@ Data per site comes from the build prompt as JSON, so Klaudius generates `servic
 - The 1b emails (weblink): the loop is the first thing a prospect interacts with. It demos "your services, displayed like a premium brand" in 10 seconds.
 - Upsell path: beat 3 (proof) is empty for most SMEs at build time. "Send us 3 job photos and 2 numbers" becomes the onboarding email, which starts the client relationship.
 
+## In-store screen mode
+
+Loop component also renders as a standalone, hands-off fullscreen showreel for retail displays:
+- Plays on repeat automatically with no clicks needed
+- Timing is unattended (loops forever)
+- Self-contained HTML file, no plugins
+- Landscape or portrait orientation per the shop layout
+
+Generate as a single `services-loop.html` per client; they open fullscreen on a mounted screen and it runs all day.
+
 ## Saved for later: Higgsfield / TikTok shop
 
-The same 4-beat loop is a vertical video script: hook (name it), visual (show it), proof, CTA. When the TikTok shop build starts, feed each `services.json` through Higgsfield to generate the video variant of every loop card. Nothing to build now; the data format above is deliberately video-ready. Parked until the Notion items 1-3 context lands (page is private, could not be read this session).
+The same 4-beat loop is a vertical video script: hook (name it), visual (show it), proof, CTA. When the TikTok shop build starts, feed each `services.json` through Higgsfield to generate the video variant of every loop card. Nothing to build now; the data format above is deliberately video-ready.
 
 Related: [[always-on-builds]] · [[interactive-experiences]]

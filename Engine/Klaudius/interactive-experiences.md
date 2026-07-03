@@ -8,7 +8,12 @@
 
 Interactivity on an SME site has one job: get the visitor to *do something small* before you ask for the big thing (call, book, pay). Every pattern below is a small yes that leads to the enquiry.
 
+Interactive brand experiences turn a flat message into something people can *play with, move through and remember*. Gamification + world-building = the demo moment becomes the interaction itself.
+
 ## The patterns, ranked by conversion value
+
+### 0. Branded interactive game (brand world entry point)
+A sliding puzzle, drag-to-sort, or similar game where the client's photo/logo instantly reshapes the game around their brand. Solvable by design, confetti + CTA on completion. Prompts and examples in [[ponytail]] repo.
 
 ### 1. Instant quote / price estimator (highest value)
 A 3-slider calculator: job type, size, urgency. Shows a live price range, then "Get exact quote" captures the lead. For a service business this outperforms every animation on the page.
@@ -53,8 +58,9 @@ Hover scale 1.02, tap scale 0.98, sticky mobile call button with a subtle pulse 
 
 ## Rollout into Klaudius
 
-1. Build each pattern once as a component in the Klaudius template repo (`QuoteEstimator`, `BeforeAfter`, `Checker`, `Reveal`, `Counter`)
+1. Build each pattern once as a component in the Klaudius template repo (`BrandGame`, `QuoteEstimator`, `BeforeAfter`, `Checker`, `Reveal`, `Counter`)
 2. The build prompt per site then only picks which centrepiece to use and feeds the trade-specific numbers
 3. Patterns 4-6 go into every build by default, zero prompt cost
+4. Use prompts from ponytail repo for brand game generation; each game is a self-contained HTML file
 
 Related: [[always-on-builds]] · [[service-display-loop]]
