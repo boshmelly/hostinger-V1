@@ -1,0 +1,16 @@
+[Unit]
+Description=Klaudius __INSTANCE__ website build runner (queue watcher, max concurrent builds)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=__USER__
+Environment=KLAUDIUS_HOME=__PATH__
+ExecStart=__PATH__/klaudius-runner.sh
+Restart=always
+RestartSec=10
+MemoryMax=80%
+
+[Install]
+WantedBy=multi-user.target

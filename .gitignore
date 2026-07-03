@@ -7,3 +7,5 @@
 !*.md
 !*.txt
 !*.csv
+!*.sh
+!*.service
