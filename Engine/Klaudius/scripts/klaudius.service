@@ -1,0 +1,19 @@
+[Unit]
+Description=Klaudius website build runner (queue watcher, max 3 concurrent builds)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+# Run as your normal VPS user so claude auth and node/npm paths resolve.
+# setup-vps.sh replaces __USER__ with the invoking user automatically.
+User=__USER__
+Environment=KLAUDIUS_HOME=/opt/klaudius
+ExecStart=/opt/klaudius/klaudius-runner.sh
+Restart=always
+RestartSec=10
+# Builds can be memory hungry; keep the box alive if one goes rogue
+MemoryMax=80%
+
+[Install]
+WantedBy=multi-user.target
