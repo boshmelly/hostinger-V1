@@ -5,7 +5,15 @@
 
 ## Files
 
+**Deployment & templates:**
+- [[DEPLOYMENT-TEMPLATE]] — parameterized, multi-instance setup guide (license-aware, any VPS, copy-paste ready)
+- [[PR-GLOSSARY]] — PR history, what shipped in each, license key reference
+
+**Operations & architecture:**
 - [[always-on-builds]] — builds that survive laptop close. systemd runner, max 3 concurrent, install scripts in `scripts/`
+- [[DELIVERY]] — what's built, what you need to do, next phase
+
+**Design specs:**
 - [[interactive-experiences]] — patterns to make generated sites feel premium (brand game, estimator, before/after, reveals)
 - [[brand-website-design]] — bespoke animated website design from a brief, with real copy and visuals
 - [[service-display-loop]] — the 4-beat service loop component spec, plus Higgsfield/TikTok reuse and in-store screen mode
